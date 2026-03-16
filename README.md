@@ -13,23 +13,21 @@
 - Passionate about solving problems using **Python, SQL, and Power BI**
 
 ---
-
-💻 **Skills**
-
-- Python  
-- SQL  
-- Power BI  
-- Excel    
-- Data Analysis  
+💻 Skills
+• Python  
+• SQL  
+• Power BI  
+• Excel  
+• Data Analysis  
+• Pandas  
+• NumPy  
+• Data Visualization
 
 ---
-
-📂 **Projects**
-
-- 📊 Data Analysis Projects  
-- 🤖 Machine Learning Projects  
-- 🗄 SQL Query Practice  
-
+📂 Projects
+• 📊 Sales Data Analysis Dashboard (Power BI)
+• 🤖 Customer Churn Prediction (Machine Learning)
+• 🗄 SQL Query Practice & Database Analysis
 ---
 ## 🌐 Connect with Me
 
@@ -37,6 +35,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-imfaiyazkhan02--del-black?style=for-the-badge&logo=github)](https://github.com/imfaiyazkhan02-del)
 
-⭐ **Goal**
-
-To build data-driven solutions and become a professional **Data Analyst / Data Scientist**.
+⭐ Goal
+To leverage data analysis, Python, SQL, and visualization tools to extract meaningful insights and support data-driven decision making as a Data Analyst / Data Scientist.
