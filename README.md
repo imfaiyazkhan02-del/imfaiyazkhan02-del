@@ -24,10 +24,11 @@
 • Data Visualization
 
 ---
-📂 Projects
-• 📊 Sales Data Analysis Dashboard (Power BI)
-• 🤖 Customer Churn Prediction (Machine Learning)
-• 🗄 SQL Query Practice & Database Analysis
+## 📂 Projects
+
+- 📊 Sales Data Analysis Dashboard using Power BI
+- 🤖 Customer Churn Prediction using Machine Learning
+- 🗄 SQL Query Practice and Database Analysis
 ---
 ## 🌐 Connect with Me
 
