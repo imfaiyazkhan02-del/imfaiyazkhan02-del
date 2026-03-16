@@ -31,7 +31,6 @@
 - 🗄 SQL Query Practice  
 
 ---
-
 🌐 **Connect with Me**
 
 - LinkedIn: https://www.linkedin.com/in/faiyaz-khan-6b2900391  
