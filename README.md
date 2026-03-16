@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faiyaz Khan</h1>
+<h3 align="center">MCA Student | Aspiring Data Analyst | Python & SQL Enthusiast</h3>
 
-<!--
-**imfaiyazkhan02-del/imfaiyazkhan02-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Education**  
+- MCA – Techno India University, West Bengal  
+- BCA – Techno India University, West Bengal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **About Me**  
+- Aspiring **Data Analyst**
+- Interested in **Data Analysis, Machine Learning, and Software Development**
+- Passionate about solving problems using **Python, SQL, and Power BI**
+
+---
+
+💻 **Skills**
+
+- Python  
+- SQL  
+- Power BI  
+- Excel  
+- C Programming  
+- Data Analysis  
+
+---
+
+📂 **Projects**
+
+- 📊 Data Analysis Projects  
+- 🤖 Machine Learning Projects  
+- 🗄 SQL Query Practice  
+
+---
+
+🌐 **Connect with Me**
+
+- LinkedIn: https://www.linkedin.com/in/faiyaz-khan-6b2900391  
+- GitHub: https://github.com/imfaiyazkhan02-del  
+
+---
+
+⭐ **Goal**
+
+To build data-driven solutions and become a professional **Data Analyst / Data Scientist**.
