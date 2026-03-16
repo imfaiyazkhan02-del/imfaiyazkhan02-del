@@ -31,11 +31,11 @@
 - 🗄 SQL Query Practice  
 
 ---
-🌐 Connect with Me
+## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/faiyaz-khan-6b2900391)
-- 💻 [GitHub](https://github.com/imfaiyazkhan02-del)
-- 📧 Email: imfaiyazkhan02@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiyaz%20Khan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faiyaz-khan-6b2900391)
+
+[![GitHub](https://img.shields.io/badge/GitHub-imfaiyazkhan02--del-black?style=for-the-badge&logo=github)](https://github.com/imfaiyazkhan02-del)
 
 ⭐ **Goal**
 
