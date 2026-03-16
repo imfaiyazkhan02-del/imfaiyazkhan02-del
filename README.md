@@ -19,8 +19,7 @@
 - Python  
 - SQL  
 - Power BI  
-- Excel  
-- C Programming  
+- Excel    
 - Data Analysis  
 
 ---
